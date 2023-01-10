@@ -1,0 +1,9 @@
+:~  title+'fart'
+    info+'a fart app'
+    color+0x33.3333
+    site+/fart
+    base+'fart'
+    version+[0 0 1]
+    website+'https://fart.com'
+    license+'MIT'
+==
